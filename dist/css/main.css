@@ -633,3 +633,18 @@ a {
     width: 63%;
   }
 }
+
+@media (max-width: 1030px) and (min-width: 1000px) {
+  #footer .section-content input[type="button"] {
+    width: 50%;
+    margin-top: 1.5rem;
+    margin-left: 0;
+  }
+  #footer .section-newsletter {
+    margin-left: 4rem;
+  }
+  #footer .section-content h2 .phone,
+  #footer .section-content h2 .email {
+    margin-right: 0.5rem;
+  }
+}
