@@ -609,7 +609,8 @@ a {
     width: 100%;
   }
   #footer .section-newsletter input[type="button"] {
-    width: 70%;
+    width: 73%;
+    padding-left: 1rem;
   }
 }
 
