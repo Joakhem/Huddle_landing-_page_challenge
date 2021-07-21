@@ -351,7 +351,7 @@ a {
 }
 
 #footer .section-newsletter input[type="button"] {
-  padding: 0.8rem 5rem 0.8rem 5rem;
+  padding: 0.8rem 2rem 0.8rem 2rem;
   margin-left: 2rem;
   margin-top: 1rem;
   cursor: pointer;
@@ -610,6 +610,7 @@ a {
   }
   #footer .section-newsletter input[type="button"] {
     width: 70%;
+    padding: 0.8rem 0rem 0.8rem 5rem;
   }
 }
 
@@ -631,6 +632,7 @@ a {
   }
   #footer .section-content input[type="button"] {
     width: 63%;
+    padding: 0.8rem 0rem 0.8rem 2.7rem;
   }
 }
 
